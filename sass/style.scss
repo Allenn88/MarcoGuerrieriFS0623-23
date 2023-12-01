@@ -1,0 +1,69 @@
+
+@import "colori";
+@import "../bootstrap-5.2.3/scss/bootstrap.scss";
+
+
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: whitesmoke;
+    background-color: black;
+}
+ .iconpush{
+    padding-top: 10px;
+    color: whitesmoke;
+ }
+ header ion-icon{
+    color: whitesmoke;
+ }
+.nav-link{
+    color: whitesmoke;
+}
+section{
+    margin-top: 70px;
+    
+}
+.titolo1{
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding-right: 2px;
+    color: whitesmoke;
+}
+h2{
+    font-size: 1.5rem;
+}
+.iconesvg{
+    border: 1px whitesmoke;
+    margin: 5px;
+    color: whitesmoke;
+}
+.sceltacategory{
+    background-color: black;
+    padding-right: 430px;
+}
+
+article img{
+    width: 200px;
+    height: auto;
+}
+article{
+    padding-top: 10px;
+}
+footer{
+    padding-top: 50px;
+}
+footer a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: xx-small;
+}
+footer ul{
+    text-decoration: none;
+}
+footer button{
+    border: solid 2px whitesmoke;
+    background-color: black;
+    color: whitesmoke;
+    font-size: xx-small;
+    padding-left: 25px;
+}
