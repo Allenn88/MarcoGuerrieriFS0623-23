@@ -1,4 +1,12 @@
 @charset "UTF-8";
+.Paginastudente {
+  text-align: center;
+}
+
+.Paginastudente p {
+  text-align: center;
+}
+
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -10793,5 +10801,4 @@ footer button {
   background-color: black;
   color: whitesmoke;
   font-size: xx-small;
-  padding-left: 25px;
 }/*# sourceMappingURL=style.css.map */
